@@ -1,5 +1,6 @@
 //Programmer: Javan Graber
 //Date: 11/17/26
+//Title: Person Info APP
 
 package javanproject;
 import java.util.Scanner;
